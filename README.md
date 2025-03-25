@@ -140,4 +140,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For support or questions, please contact [your-email@example.com](sbose3739@gmail.com)
+For support or questions, please contact [sbose3739@gmail.com](sbose3739@gmail.com)
