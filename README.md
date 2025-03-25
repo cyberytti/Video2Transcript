@@ -43,7 +43,7 @@ Before you begin, ensure you have:
 
 4. **Set up grok api key**:
    ```
-   set your grok api key in convertedwav_to_transcript.py file 
+   set your grok api key in functions/convertedwav_to_transcript.py file 
    ```
 
 5. **Download FFmpeg**:
@@ -98,15 +98,6 @@ video-to-transcript/
 └── outputs/              # Generated transcripts
 ```
 
-## 🔧 Configuration
-
-You can modify the following in `app.py`:
-- `UPLOAD_FOLDER`: Change the upload directory
-- `ALLOWED_EXTENSIONS`: Add more video formats if needed
-
-In `main.py`, you can adjust:
-- Temporary file names
-- Error handling behavior
 
 ## 🌐 Supported Languages
 
@@ -144,9 +135,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Audio processing fails**: Ensure FFmpeg is installed and in your PATH
 - **Translation errors**: Verify Ollama is running and Gemma3 model is downloaded
-- **API errors**: Check your Groq API key in the `.env` file
+- **API errors**: Check your Groq API key in the functions/convertedwav_to_transcript.py file
 - **File permission issues**: Ensure the `uploads` and `outputs` directories are writable
 
 ## 📧 Contact
 
-For support or questions, please contact [your-email@example.com](mailto:your-email@example.com)
+For support or questions, please contact [your-email@example.com](sbose3739@gmail.com)
