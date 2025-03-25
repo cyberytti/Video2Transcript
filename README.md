@@ -46,10 +46,16 @@ Before you begin, ensure you have:
    set your grok api key in convertedwav_to_transcript.py file 
    ```
 
-5. **Set up environment variables**:
-   Create a `.env` file in the root directory with:
+5. **Download FFmpeg**:
+   Open your terminal and enter this command:
    ```env
-   GROQ_API_KEY=your_groq_api_key_here
+   sudo apt-get install ffmpeg
+   ```
+
+6. **Download the gemma3 model**:
+   First install ollama in your system then open your terminal and enter this command::
+   ```env
+   ollama pull gemma3:12b
    ```
 
 ## 🚀 Running the Application
