@@ -95,7 +95,6 @@ video-to-transcript/
 ├── static/
 │   ├── script.js         # Client-side JavaScript
 │   └── style.css         # Styling
-├── uploads/              # Temporary video storage
 └── outputs/              # Generated transcripts
 ```
 
