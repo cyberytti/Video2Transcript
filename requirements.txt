@@ -1,0 +1,19 @@
+# Core dependencies
+Flask
+python-dotenv
+
+# Audio/video processing
+moviepy
+pydub
+ffmpeg-python
+
+# AI/ML services
+groq
+openai
+
+# File operations
+python-magic
+pathlib
+
+# Development (optional)
+python-dotenv
