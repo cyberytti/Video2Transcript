@@ -2,7 +2,7 @@
 
 A Flask web application that converts video files into translated transcripts using AI-powered speech recognition and translation.
 
-![Project Screenshot](https://via.placeholder.com/800x500.png?text=Video+to+Transcript+Converter)
+![Project Screenshot](https://github.com/cyberytti/Video2Transcript/blob/main/Screenshot%20from%202025-03-25%2009-13-02.png)
 
 ## ✨ Features
 
