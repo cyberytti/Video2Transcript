@@ -41,7 +41,12 @@ Before you begin, ensure you have:
    pip install -r requirements.txt
    ```
 
-4. **Set up environment variables**:
+4. **Set up grok api key**:
+   ```
+   set your grok api key in convertedwav_to_transcript.py file 
+   ```
+
+5. **Set up environment variables**:
    Create a `.env` file in the root directory with:
    ```env
    GROQ_API_KEY=your_groq_api_key_here
